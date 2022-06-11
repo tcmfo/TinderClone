@@ -1,5 +1,3 @@
-package com.thecode.tinderclone;
-
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
